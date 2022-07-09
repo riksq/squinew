@@ -1,0 +1,2 @@
+# squinew
+GitHub Pages
